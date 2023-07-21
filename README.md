@@ -1,4 +1,4 @@
-# ETHAVAXNEW-
+
 # Functions and Errors - ETH + AVAX
 This is a solidity program which contains a smart contract diplaying the basic functions of the require(), revert(), and assert functions.
 
